@@ -11,20 +11,21 @@ header {
   padding: 1rem;
   text-align: center;
 }
-image-hover-container {
+.image-hover-container {
   display: inline-block;
   overflow: hidden;
   border-radius: 8px;
+  margin-top: 10px; /* Optional spacing below title */
 }
 
-hover-image {
+.hover-image {
   width: 300px;
   height: auto;
   transition: transform 0.3s ease;
 }
 
-hover-image:hover {
-  transform: scale(1.1); /* Zoom effect */
+.hover-image:hover {
+  transform: scale(1.1);
 }
 
 header h1 {
