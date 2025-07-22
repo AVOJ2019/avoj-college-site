@@ -2,11 +2,10 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: url('../images/cross-bg.jpg') no-repeat center center fixed;
+  background: url('images/cross-bg.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #fff;
 }
-
 header {
   background-color: rgba(0, 0, 0, 0.7);
   padding: 1rem;
