@@ -6,11 +6,6 @@ body {
   background-size: cover;
   color: #fff;
 }
-  hero {
-      background-image: url('cross-bg.jpg');
-      height: 400px;
-      background-size: cover;
-      background-position: center;
 header {
   background-color: rgba(0, 0, 0, 0.7);
   padding: 1rem;
